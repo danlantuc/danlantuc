@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Learning new technologies and creating solutions while making new Friends
 
-- 🎓 &nbsp; Studying Centro de e-Learning UTN FRBA (Argentina).
+- 🎓 &nbsp; Studying in Centro de e-Learning Universidad Tecnologica Nacional FRBA (Argentina).
 
 - 🌱 &nbsp; Conding in Js & dreaming in REACT.
 
