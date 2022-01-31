@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Learning new technologies and creating solutions.
+- 🤔 &nbsp; Learning new technologies and creating solutions while making new Friends
 
 - 🎓 &nbsp; Studying Centro de e-Learning UTN FRBA (Argentina).
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 🌱 &nbsp; Conding in Js & dreaming in REACT.
 
-- ✍️ &nbsp; Persuing my dreamjob as a remote Jr web development position.
+- ✍️ &nbsp; Persuing my dreamjob as a Jr web development position.
 
 
 
@@ -31,9 +31,9 @@
 
 
 
-<h3>🛠 Ready To Learn</h3>
+<h3>🛠 I'm Ready To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; Amazon Web Services | Docker🐳 | Firebase
 
 <hr>
 
@@ -69,7 +69,7 @@
 
 <a href="https://www.linkedin.com/in/daniel-lanciotti-3314aa48/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel Lanciotti-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="mailto:daniellanciotti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniellanciotti1@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:daniellanciotti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniellanciotti@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
