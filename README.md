@@ -67,9 +67,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/daniel-lanciotti-3314aa48/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
-
-<a href="https://www.instagram.com/dannylanciotti/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/daniel-lanciotti-3314aa48/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel Lanciotti-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:daniellanciotti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniellanciotti1@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
@@ -79,7 +77,6 @@
 
 
 
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=shivam0110.shivam0110)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
 
 
 
