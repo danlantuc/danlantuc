@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying in Centro de e-Learning Universidad Tecnologica Nacional FRBA (Argentina).
 
-- 🌱 &nbsp; Conding in Js & dreaming in REACT.
+- 🌱 &nbsp; Coding in Js & dreaming in REACT.
 
 - ✍️ &nbsp; Persuing my dreamjob as a Jr web development position.
 
@@ -21,13 +21,8 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | ExpressJS
 
-<!--
+- 🛢 &nbsp; PHP | MongoDB | NodeJs
 
-- 🛢 &nbsp; PHP | MongoDB
-
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-
--->
 
 
 
