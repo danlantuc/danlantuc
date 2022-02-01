@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Coding in Js & dreaming in REACT.
 
-- ✍️ &nbsp; Persuing my dreamjob as a Jr web development position.
+- ✍️ &nbsp; Persuing my dreamjob as a Jr web developer.
 
 
 
@@ -28,7 +28,7 @@
 
 <h3>🛠 I'm Ready To Learn</h3>
 
-- 🔧 &nbsp; Amazon Web Services | Docker🐳 | Firebase
+- 🔧 &nbsp; Typescript | Docker🐳 | Firebase
 
 <hr>
 
