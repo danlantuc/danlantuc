@@ -21,14 +21,14 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | ExpressJS
 
-- 🛢 &nbsp; PHP | MongoDB | NodeJs
+- 🛢 &nbsp; MongoDB | NodeJs
 
 
 
 
 <h3>🛠 I'm Ready To Learn</h3>
 
-- 🔧 &nbsp; Typescript | Docker🐳 | Firebase
+- 🔧 &nbsp; Golang | Docker🐳 | Firebase
 
 <hr>
 
