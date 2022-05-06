@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Learning new technologies and creating solutions while making new Friends
 
-- 🎓 &nbsp; Studying in Centro de e-Learning Universidad Tecnologica Nacional FRBA (Argentina).
+- 🎓 &nbsp; Studied in Universidad Tecnologica Nacional FRBA (Argentina).
 
 - 🌱 &nbsp; Coding in Js & dreaming in REACT.
 
@@ -54,7 +54,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with Me, Im allways happy to make new friends </h3>
 
 <br>
 
