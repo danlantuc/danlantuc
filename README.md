@@ -19,9 +19,9 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | ExpressJS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | ExpressJS
 
-- 🛢 &nbsp; MongoDB | NodeJs
+- 🛢 &nbsp; MongoDB | NodeJs | GraphQL
 
 
 
@@ -36,7 +36,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danlantuc&show_icons=true)](https://github.com/danlantuc)
+[![danlantuc GitHub Stats](https://github-readme-stats.vercel.app/api?username=danlantuc&show_icons=true)](https://github.com/danlantuc)
 
 <br/>
 
