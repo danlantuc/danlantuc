@@ -19,9 +19,9 @@
 <h3>🛠 Tech Stack</h3>
 
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Tailwind | ReactJS | ExpressJS
+- 🌐 &nbsp; JavaScript | Tailwind | React | Redux | ExpressJS 
 
-- 🛢 &nbsp; MongoDB | NodeJs | GraphQL
+- 🛢 &nbsp; SQL | NodeJs | Sequelize | MongoDB
 
 
 
