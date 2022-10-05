@@ -62,7 +62,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/daniel-lanciotti-3314aa48/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel Lanciotti-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/daniel-lanciotti-%F0%9F%87%A6%F0%9F%87%B7-3314aa48/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel Lanciotti-blue?style=flat-square&logo=linkedin"></a>
 
 <a href="mailto:daniellanciotti@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-daniellanciotti@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
