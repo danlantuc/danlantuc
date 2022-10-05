@@ -22,7 +22,7 @@
 
 - 🌐 &nbsp; JavaScript | Tailwind | React | Redux | ExpressJS 
 
-- 🛢 &nbsp; SQL | NodeJs | Sequelize | MongoDB
+- 🛢 &nbsp; NodeJs | Sequelize | MongoDB
 
 
 
