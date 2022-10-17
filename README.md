@@ -22,14 +22,14 @@
 
 - 🌐 &nbsp; JavaScript | Tailwind | React | Redux | ExpressJS 
 
-- 🛢 &nbsp; NodeJs | Sequelize | MongoDB
+- 🛢 &nbsp; NodeJs | MongoDB | Firebase | Strapi
 
 
 
 
 <h3>🛠 I'm Ready To Learn</h3>
 
-- 🔧 &nbsp; Golang | Docker🐳 | Firebase
+- 🔧 &nbsp; Golang | Docker🐳 
 
 <hr>
 
