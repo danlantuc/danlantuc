@@ -70,8 +70,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats : https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fdanlantuc&theme=dracula)](https://git.io/streak-stats </h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fdanlantuc&theme=dracula)](https://git.io/streak-stats)
+
 
 ###
