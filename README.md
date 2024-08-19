@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e475i6a5ivyr9frzqrik3qahgpj7o76me6z1p9rw414&ep=v1_gifs_related&rid=giphy.gif&ct=s"  />
+  <img height="150" src="[https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif?cid=ecf05e475i6a5ivyr9frzqrik3qahgpj7o76me6z1p9rw414&ep=v1_gifs_related&rid=giphy.gif&ct=s](https://media.giphy.com/media/Ye7UYS5NTl6arPbDw7/giphy.gif?cid=ecf05e47olef2b0trqio4yuakpufqpe8buxinj63shup0pw0&ep=v1_gifs_related&rid=giphy.gif&ct=s)"  />
 </div>
 
 ###
@@ -71,5 +71,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fdanlantuc&theme=dracula)](https://git.io/streak-stats)
 
 ###
