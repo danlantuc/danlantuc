@@ -28,19 +28,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Daniel, im a Freelance Front-End Developer from  Argentina ....<br><br>- 🔭 I’m working as Freelance Developer<br>- 📚 I'm currently learning Golang | Docker<br>- ⚡ In my work time i like learning new technologies and creating solutions while making new Friends</p>
+<p align="center">I'm Daniel, im a Freelance Front-End Developer from  Argentina ....<br><br>- 🔭 I’m working as Freelance Developer<br>- 📚 I'm currently learning Golang | Docker<br>- ⚡ In my work time i like learning new technologies and creating solutions while making new Friends</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
