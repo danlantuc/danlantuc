@@ -1,5 +1,4 @@
 <div align="center">
-![github](github-header-image.png) </br>
   <img height="150" src="https://media.giphy.com/media/Ye7UYS5NTl6arPbDw7/giphy.gif?cid=ecf05e47olef2b0trqio4yuakpufqpe8buxinj63shup0pw0&ep=v1_gifs_related&rid=giphy.gif&ct=s"  />
 </div>
 
