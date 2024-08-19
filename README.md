@@ -70,9 +70,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats : </h3>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=https%3A%2F%2Fgithub.com%2Fdanlantuc&theme=dracula" alt="GitHub Streak" /></a>
+<div align="center">
+  <img height="250" src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47yxjz6eu1uhp5z3bvdsp4v7tg3inkg9gtdds7569q&ep=v1_gifs_related&rid=giphy.gif&ct=s"  />
+</div>
 
 
 
