@@ -32,7 +32,7 @@
 
 ###
 
-<p align="center">I'm Daniel, im a Freelance Front-End Developer from  Argentina ....<br><br>- 🔭 I’m working as Freelance Developer<br>- 📚 I'm currently learning Golang | Docker<br>- ⚡ In my work time i like learning new technologies and creating solutions while making new Friends</p>
+<p align="center">I'm Daniel, im a Front-End Developer from  Argentina ....<br><br>- 🔭 I’m working as CSM <br>- 📚 I'm currently learning Golang | Docker<br>- ⚡ In my work time i like learning new technologies and creating solutions while making new Friends</p>
 
 ###
 
