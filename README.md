@@ -24,17 +24,26 @@
 
 ###
 
-<h1 align="center">Welcome to mi profile 👋</h1>
+<h1 align="center">👋 Hi, I'm Daniel Lanciotti</h1>
+<h3 align="center">Front-End Developer | Customer Success Manager | SaaS Enthusiast</h3>
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<p align="center">I'm Daniel, a Front-End Developer and Customer Success Manager from Argentina.<br><br>
+- 🔭 Currently working at FigPii, managing client success and SaaS operations.<br>
+- 📚 Learning Golang & Docker to expand backend and DevOps skills.<br>
+- ⚡ Passionate about building scalable solutions, optimizing workflows, and engaging with international clients.</p>
 
 ###
 
-<p align="center">I'm Daniel, im a Front-End Developer from  Argentina ....<br><br>- 🔭 I’m working as CSM <br>- 📚 I'm currently learning Golang | Docker<br>- ⚡ In my work time i like learning new technologies and creating solutions while making new Friends</p>
+<h3 align="center">📈 Customer Success Expertise</h3>
 
-###
+<p align="center">
+- Measuring KPIs, churn, and NPS to improve retention.<br>
+- Creating onboarding tutorials and product feature videos.<br>
+- Maintaining FAQ knowledge bases and SOPs for customer service teams.<br>
+- Holding regular client meetings to strengthen engagement and improve service.
+</p>
 
 <h3 align="center">🛠 Language and tools</h3>
 
